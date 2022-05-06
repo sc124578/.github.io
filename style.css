@@ -6,25 +6,27 @@ h1 {
   font-family: fantasy;
   color:#393D3F;
   font-size:48px;
-  text-align: center;
+  
   
 }
 h2 {
   font-family: cursive;
   color: #201E1F;
-  text-align: center;
+  
 }
 h3 {
   font-family: monospace;
   color: #0A0908
-    text-align: center
+    
 }
 header {
   background-color: #C5D9E2;
+  text-align: center;
 }
 main {
   background-color: #A0AAB2;
   margin: 15px;
+  text-align: center;
 }
 footer {
   background-color: #474747;
