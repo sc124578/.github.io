@@ -23,8 +23,8 @@ h3 {
 header {
   background-color: #457B9D;
   text-align: center;
-  width: 130%
-  /* The height is larger in order for the header to cover the entire top pf the page.*/
+  width: 100%
+  /*I couldn't figure out how to make the header cover the entire top of the page.*/
 }
 main {
   background-color: #DDF2EB;
