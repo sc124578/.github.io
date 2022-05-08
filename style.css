@@ -5,7 +5,7 @@ html, body {
 }
 h1 {
   font-family: fantasy;
-  color:#FFFFFC;
+  color:#01161E;
   font-size:48px;
   
   
@@ -21,7 +21,7 @@ h3 {
     
 }
 header {
-  background-color: #3E6680;
+  background-color: #9A98B5;
   text-align: center;
   width: 100%
 }
