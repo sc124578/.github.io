@@ -7,7 +7,7 @@ h1 {
   font-family: fantasy;
   color:#01161E;
   font-size:48px;
-  
+  /*The header is colored using a version of black that is a bit darker in order to contrast better with a lighter background.*/
   
 }
 h2 {
@@ -23,12 +23,15 @@ h3 {
 header {
   background-color: #457B9D;
   text-align: center;
-  width: 100%
+  width: 100%;
+  height: 135%;
+  /* The height is larger in order for the header to cover the entire top pf the page.*/
 }
 main {
   background-color: #DDF2EB;
   margin: 15px;
   text-align: center;
+  /* Text align center looked a little better than the default left did*/
 }
 footer {
   background-color: #474747;
