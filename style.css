@@ -49,3 +49,7 @@ ul {
   text-align: center;
   list-style-position: inside;
 }
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
